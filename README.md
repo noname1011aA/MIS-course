@@ -21,7 +21,6 @@ MIS-course/
 ├── README.md
 ├── software-spec.md
 ├── AGENTS.md
-├── DEMO.md
 ```
 
 ## 三、核心文件介紹
