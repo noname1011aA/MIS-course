@@ -19,18 +19,15 @@
 ```text
 MIS-course/
 ├── image/
-  └─ 01.png
-  └─ 02.png
-  └─ 03.png
-  └─ 04.png
-  └─ 05.png
-├── README.md 
-├── AGENTS.md 
-├──SKILL.md           
-├── software-spec.md
-
-
-
+│   ├── 01.png
+│   ├── 02.png
+│   ├── 03.png
+│   ├── 04.png
+│   └── 05.png
+├── README.md
+├── AGENTS.md
+├── SKILL.md
+└── software-spec.md
 ```
 
 ## 三、核心文件介紹
