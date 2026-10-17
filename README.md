@@ -17,7 +17,7 @@
 ## 二、文件結構
 
 ```text
-agent-files-example/
+MIS-course/
 ├── README.md
 ├── software-spec.md
 ├── AGENTS.md
