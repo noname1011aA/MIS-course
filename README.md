@@ -22,9 +22,6 @@ agent-files-example/
 ├── software-spec.md
 ├── AGENTS.md
 ├── DEMO.md
-└── skills/
-    └── repair-review/
-        └── SKILL.md
 ```
 
 ## 三、核心文件介紹
@@ -89,7 +86,6 @@ agent-files-example/
 - 是否有考慮例外情況與驗收條件。
 - 是否能清楚回報修改內容、測試結果與尚未確認的風險。
 
-完整的比較提示與觀察重點請參考 [`DEMO.md`](DEMO.md)。
 
 ## 六、使用注意事項
 
