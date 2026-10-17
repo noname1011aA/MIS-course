@@ -21,6 +21,8 @@ MIS-course/
 ├── README.md
 ├── software-spec.md
 ├── AGENTS.md
+├──SKILL.md
+
 ```
 
 ## 三、核心文件介紹
