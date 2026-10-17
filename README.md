@@ -8,6 +8,20 @@
 
 專案以 Python Flask 作為後端，搭配 HTML、CSS 與 JavaScript 建立前端介面。
 
+##文件結構
+
+MIS-course/
+├── agent.md
+├── README.md
+├── software-spec.md
+├── app.py
+├── static/
+│   ├── app.js
+│   └── admin.js
+└── templates/
+    ├── index.html
+    └── admin.html
+
 ## 二、開發目標
 
 本次功能擴充分為兩個部分：
